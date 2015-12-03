@@ -6,10 +6,10 @@
 #' @param dateTime_col_name Name of the column with timestamps. Defaults to "dateTime".
 #' @param mit_hours The time in hours to use as the minimum inter-event time. Defaults to 6.0.
 #' @param ID an identifying word that will be used to create identifiers for events in combination with the mit number
-#' @keywords cats
+#' @keywords rain
 #' @export
 #' @examples
-#' cat_function()
+#' make_events()
 
 
 
