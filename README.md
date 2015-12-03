@@ -42,4 +42,5 @@ This work was supported by the National Socio-Environmental Synthesis Center (SE
 
 # Potential improvements
 
-This package could be modified to be compatible with tipping bucket data (i.e. irregularly spaced timestamps of tips). 
+- This package could be modified to be compatible with tipping bucket data (i.e. irregularly spaced timestamps of tips). 
+- Add a function to create events from other precipitation data (e.g. from `precip` package) and a user-defined start and end date
