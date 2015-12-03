@@ -31,8 +31,10 @@ The current version takes as input a data frame with at least columns for time a
 
 # How to install
 
+```
 install.packages("devtools")  # if necessary
 devtools::install_github("khondula/rainR")
+```
 
 # Acknowledgements
 
