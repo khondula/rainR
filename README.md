@@ -44,3 +44,4 @@ This work was supported by the National Socio-Environmental Synthesis Center (SE
 
 - This package could be modified to be compatible with tipping bucket data (i.e. irregularly spaced timestamps of tips). 
 - Add a function to create events from other precipitation data (e.g. from `‘raincpc` package) and a user-defined start and end date
+- Ensure consistency of time and date data between input and output/have more flexible options for date and time input column(s)
